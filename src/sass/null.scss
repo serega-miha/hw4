@@ -1,0 +1,40 @@
+
+
+
+*{
+ 
+    padding: 0px;
+	margin: 0px;
+	border: 0px;
+
+}
+
+
+html,
+body {
+	height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+  
+    
+	
+}
+input, textarea{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+}
+.wrapper{
+    width: 100%;
+	min-height: 100%;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+   
+}
+
